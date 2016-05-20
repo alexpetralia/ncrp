@@ -1,0 +1,89 @@
+Bibliography
+National Corrections Reporting Program (NCRP) Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 38. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2007-12-07.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Beck, Allen J.; Brien, Peter M., "Trends in the U.S. Correctional
+Populations: Recent findings from the Bureau of Justice Statistics." In
+Haas, Kenneth C.; Alpert, Geoffrey P., The Dilemmas of Corrections:
+Contemporary Readings, 3rd ed.. Prospect Heights, IL: Waveland Press,1995.
+
+2. Chaiken, Jan M., "Crunching Numbers: Crime and Incarceration at the End
+of the Millenium." National Institute of Justice Journal. Jan 2000, (242),
+10 - 17.
+Full text PDF: http://ncjrs.org/pdffiles1/jr000242c.pdf
+
+3. Geter, Leon T., "Re-entry statistics now available on BJS web site."
+Corrections Today. Aug 2003, 65, (5), 66 - 67.
+Full text PDF: http://ncjrs.org/pdffiles1/jr000242c.pdf
+
+4. Greenfeld, Lawrence A., "Sex Offenses and Offenders." NCJ 163392, United
+States Department of Justice, Bureau of Justice Statistics, Feb 1997.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/soo.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/soo.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/soo.pdf
+Reports on more than two dozen statistical datasets maintained by the
+Bureau of Justice Statistics and on data from the Uniform Crime Reporting
+(UCR) Program of the FBI to provide a comprehensive overview of current
+knowledge about the incidence and prevalence of violent victimization by
+sexual assault, the response of the criminal justice system to such crimes,
+and the characteristics of those who commit sexual assault or rape.
+
+5. Greenfeld, Lawrence A.; Dillingham, Steven D., "An Overview of National
+Corrections Statistics." Federal Probation. Jun 1991, 55, (2), 27 - 34.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/soo.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/soo.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/soo.pdf
+Reports on more than two dozen statistical datasets maintained by the
+Bureau of Justice Statistics and on data from the Uniform Crime Reporting
+(UCR) Program of the FBI to provide a comprehensive overview of current
+knowledge about the incidence and prevalence of violent victimization by
+sexual assault, the response of the criminal justice system to such crimes,
+and the characteristics of those who commit sexual assault or rape.
+
+6. Harrison, Paige M.; Karberg, Jennifer C., "Prison and Jail Inmates at
+Midyear 2002." Bulletin. NCJ 198877, Washington, DC: United States
+Department of Justice, Bureau of Justice Statistics, Apr 2003.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/pjim02.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/pjim02.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/pjim02.pdf
+Presents data on prison and jail inmates, collected from National Prisoner
+Statistics counts and the Annual Survey of Jails in 2002.
+
+7. Lynch, James P.; Sabol, William J., "Assessing the Longer-run
+Consequences of Incarceration." Presented at the 20th Annual Research
+Conference of the Association of Public Policy Analysts and Management, New
+York, NY, Oct 30, 1998.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/pjim02.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/pjim02.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/pjim02.pdf
+Presents data on prison and jail inmates, collected from National Prisoner
+Statistics counts and the Annual Survey of Jails in 2002.
+
+8. Petersilia, Joan, "Parole and prisoner reentry in the United States." In
+Tonry, Michael; Petersilia, Joan, Prisons. Crime and Justice: A Review of
+Research. 479 - 529, Chicago, IL: University of Chicago Press,1999.
+
+9. Strom, Kevin J., "Profile of State Prisoners under Age 18, 1985-97,
+Special Report." NCJ 176989, United States Department of Justice, Bureau of
+Justice Statistics, Feb 2000.
+Abstract: http://www.ojp.usdoj.gov/bjs/abstract/pspa1897.htm
+Full text: http://www.ojp.usdoj.gov/bjs/pub/ascii/pspa1897.txt
+Full text PDF: http://www.ojp.usdoj.gov/bjs/pub/pdf/pspa1897.pdf
+Presents trend data from 1985 to 1997 on persons under 18 in State prison,
+focusing primarily on persons admitted to prison under the age of 18: their
+demographic characteristics, offenses, average sentence length, and
+expected time served.
+
+10. Ziedenberg, Jason, "Drugs and disparity: The racial impact of Illinois'
+practice of transferring young drug offenders to adult court.." Washington,
+DC: Building Blocks for Youth, 2001.
